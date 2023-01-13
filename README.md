@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**furkancetn/furkancetn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://raw.githubusercontent.com/furkancetn/furkancetn/main/text.gif">
+<p><em>Computer Engineering Student at <a href="https://www.ogu.edu.tr/en">ESOGU </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></p>
 
-Here are some ideas to get you started:
+[![Linkedin: furkancetn](https://img.shields.io/badge/-furkancetn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/furkancetn)](www.linkedin.com/in/furkancetn)
+[![GitHub furkancetn](https://img.shields.io/github/followers/furkancetn?label=follow&style=social)](https://github.com/furkancetn)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=furkancetn.furkancetn)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+ ```javascript
+const furkancetn = {
+  pronouns: "he" | "his",
+  code: [C, C++, Javascript, HTML, CSS, Python],
+  tools: [MySql, Docker, Mininet, Onos],
+  os: [Linux, Windows],
+  editor: [Visual Studio Code, Visual Studio],
+}
+```
