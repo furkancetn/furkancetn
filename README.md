@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/furkancetn/furkancetn/main/text.gif">
 <p><em>Computer Engineering Student at <a href="https://www.ogu.edu.tr/en">ESOGU </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></p>
 
-[![Linkedin: furkancetn](https://img.shields.io/badge/-furkancetn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/furkancetn)](www.linkedin.com/in/furkancetn)
+[![Linkedin: furkancetn](https://img.shields.io/badge/-furkancetn-blue?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/furkancetn)
 [![GitHub furkancetn](https://img.shields.io/github/followers/furkancetn?label=follow&style=social)](https://github.com/furkancetn)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=furkancetn.furkancetn)
 
