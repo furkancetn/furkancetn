@@ -11,7 +11,7 @@
 const furkancetn = {
   pronouns: "he" | "his",
   code: [C, C++, Javascript, HTML, CSS, Python],
-  tools: [MySql, Docker, Mininet, Onos],
+  tools: [MySql, Docker, Mininet, Onos, Git],
   os: [Linux, Windows],
   editor: [Visual Studio Code, Visual Studio],
 }
