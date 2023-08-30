@@ -8,12 +8,4 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
  <a href="https://furkancetn.github.io">furkancetn.github.io</a>
- ```javascript
-const furkancetn = {
-  pronouns: "he" | "his",
-  code: [C, C++, Javascript, HTML, CSS, Python],
-  tools: [MySql, Docker, Mininet, Onos, Git],
-  os: [Linux, Windows],
-  editor: [Visual Studio Code, Visual Studio],
-}
-```
+ 
