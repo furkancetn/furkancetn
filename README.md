@@ -1,5 +1,4 @@
 
-<img src="https://media.licdn.com/dms/image/D4D16AQGCYq_NFLbXgA/profile-displaybackgroundimage-shrink_350_1400/0/1687246290490?e=1698883200&v=beta&t=W6isoPhcKSBibf5fKiZw7xjV750lrhRyOvApnhDnnOc">
 <p><em>Computer Engineering Student at <a href="https://www.ogu.edu.tr/en">ESOGU </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></p>
 
 [![Linkedin: furkancetn](https://img.shields.io/badge/-furkancetn-blue?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/furkancetn)
