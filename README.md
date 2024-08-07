@@ -22,15 +22,15 @@ I constantly improve myself in AI and ML and strive to apply these technologies 
 
 - 🌱 I’m currently learning **AI/ML**
 
-- 👨‍💻 All of my projects are available at [furkancetn.github.io](furkancetn.github.io) / [github.com/furkancetn](github.com/furkancetn)
+- 👨‍💻 All of my projects are available at [furkancetn.github.io](https://furkancetn.github.io) / [github.com/furkancetn](https://github.com/furkancetn)
 
-- 📝 I write some articles on [furkancetn.github.io / furkancetn.medium.com](furkancetn.github.io / furkancetn.medium.com)
+- 📝 I write some articles on [furkancetn.github.io](https://furkancetn.github.io) / [furkancetn.medium.com](https://furkancetn.medium.com)
 
 - 💬 Ask me about **anything freely**
 
 - 📫 How to reach me **furkncetn@outlook.com**
 
-- 📄 Know about my experiences [furkancetn.github.io](furkancetn.github.io)
+- 📄 Know about my experiences [furkancetn.github.io](https://furkancetn.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
